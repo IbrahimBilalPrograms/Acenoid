@@ -1,4 +1,4 @@
-# Acenoid
+# IbraKlix (Includes all Beaming methods
 
 <p align="center">
   <img src="https://i.imgur.com/UqAPdtC.png" width="350" title="">
@@ -16,8 +16,8 @@ Powerful open-source ROBLOX exploit with triple API functionality, using:
 <li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
 <li><a href="https://clubdark.net/forum/d/253-club-dark-api-doc">Club Dark API</a></li>
 
-# About Acenoid
-Acenoid first release is finished! You can find it in the releases: https://github.com/yeetmydog/Acenoid/releases/
+# About IbraKlix
+Ibraklix first release is finished! You can find it in the releases: https://github.com/IbrahimBilalPrograms/Acenoid/releases/
 Development was definitely worth it! You can download it if you want, or modify it, or just simply make it your own!
 <p align="right">
   <img src="https://i.gyazo.com/51900ed9cf71e7f602c131d86b110f9e.png" width="650" title="">
