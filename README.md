@@ -1,4 +1,4 @@
-# IbraKlix (Includes all Beaming methods
+# IbraKlix (Includes all Beaming methods)
 
 <p align="center">
   <img src="https://i.imgur.com/UqAPdtC.png" width="350" title="">
