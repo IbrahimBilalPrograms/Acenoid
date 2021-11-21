@@ -11,7 +11,7 @@ Powerful open-source ROBLOX exploit with triple API functionality, using:
 <li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
 <li><a href="https://github.com/rakion99/Axon">Axon API</a></li>
 
-<h2>Acenoid 2.6</h2>
+<h2>IbraKlix 2.6</h2>
 <li><a href="https://wearedevs.net/d/Exploit%20APIv2">WeAreDevs API v2</a></li>
 <li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
 <li><a href="https://clubdark.net/forum/d/253-club-dark-api-doc">Club Dark API</a></li>
